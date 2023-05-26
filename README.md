@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [(https://github.com/Eko-U/nft_card](https://github.com/Eko-U/clipboard)
-- Live Site URL: [https://eko-u.github.io/nft_card/](https://eko-u.github.io/clipboard/)
+- Solution URL: [https://github.com/Eko-U/clipboard](https://github.com/Eko-U/clipboard)
+- Live Site URL: [https://eko-u.github.io/clipboard/](https://eko-u.github.io/clipboard/)
 
 ## My process
 
